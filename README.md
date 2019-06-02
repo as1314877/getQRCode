@@ -1,0 +1,2 @@
+# getQRCode
+Create a QRCode.
