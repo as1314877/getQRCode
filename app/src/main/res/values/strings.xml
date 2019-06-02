@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">getQRCode</string>
+    <string name="get_qr_code_btn">Get QR Code</string>
+</resources>
